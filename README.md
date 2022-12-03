@@ -15,10 +15,10 @@ your local machine for development and testing purposes.
 ### installation
 1. open the terminal on your desktop
 2. cd to the directory you want to clone it
-3. type git clone  
+3. type git clone 
 
-  
-git@github.com:rickie254/issa-s444andsumiyas333.git
+
+    git@github.com:rickie254/rickies-movie-core.git
 4. open it in the text editor of your choice
 
 ## Authours
@@ -32,7 +32,7 @@ License - see the [LICENSE.md](LICENSE.md) file for more
 details
 ## Contact
 1. Email- rickie.maweu@student.moringaschool.com
-1. project link-https://github.com/rickie254/issa-s444andsumiyas333
+1. project link-https:git@github.com:rickie254/rickies-movie-core.git
 ## Aknowledgement
 1. MIT open source lisence.
 2. Git hub 
