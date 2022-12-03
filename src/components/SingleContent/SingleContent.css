@@ -11,8 +11,8 @@
   }
   
   .media:hover {
-    background-color: white;
-    color: black;
+    background-color: rgb(228, 110, 13);
+    color: rgb(250, 248, 248);
   }
   
   @media (max-width: 550px) {
